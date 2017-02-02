@@ -1,6 +1,6 @@
-# vue2-simple
+# POC VueJS 2 Wordpress
 
-> A Vue.js project
+> A Vue.js poc for beslist.nl
 
 ## Build Setup
 
@@ -14,5 +14,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
